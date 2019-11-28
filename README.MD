@@ -3,13 +3,9 @@
 [![npm](https://img.shields.io/npm/v/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data) [![npm](https://img.shields.io/npm/dt/element-china-area-data.svg)](https://www.npmjs.com/package/element-china-area-data)
 
 
-## 安装
-
-  `npm install element-china-area-data -S`
-
 ## 在线示例
 
-[地址在此，网页打开会比较慢](https://plortinus.github.io/element-china-area-data/index.html)
+[地址在此，网页打开会比较慢](https://virola.github.io/element-china-area-data/index.html)
 
 ## 使用
 
@@ -162,7 +158,7 @@ value是区域码`"110000"`
 
 ## 数据来源
 
-[china-area-data v4.0.0](https://github.com/airyland/china-area-data)
+统计局2018年数据[Python工具查询](https://github.com/snakejordan/administrative-divisions-of-China-on-Python)
 
 ## 开发过程
 
