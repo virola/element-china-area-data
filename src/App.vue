@@ -69,7 +69,7 @@ import {
   regionDataPlus,
   CodeToText,
   TextToCode
-} from "../dist/app.js";
+} from "./app.js";
 
 export default {
   data() {
